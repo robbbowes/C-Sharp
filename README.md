@@ -12,7 +12,7 @@ https://github.com/robbbowes/dotnet7-rpg-minimalapi
 https://github.com/robbbowes/DotNet7-MinimalApi
 
 
-* Movie ratings Api project using clean architecture, controllers, authorisation, and authentication
+* Movie ratings Api project using clean architecture, controllers, authorisation, and authentication  
 https://github.com/robbbowes/dotnet7-movies-api
 
 
