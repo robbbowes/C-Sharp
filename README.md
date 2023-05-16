@@ -3,12 +3,17 @@
 * .Net 7 RPG from Patrick God's Asp.Net API Udemy course.  
 https://github.com/robbbowes/dotnet7-rpg
 
+
 * Based on the above repo with more of a focus on clean architecture, CQRS, and using minimal API and reflection to define the endpoints.  
 https://github.com/robbbowes/dotnet7-rpg-minimalapi
 
 
 * Messing around with CQRS and Minimal API for a MVP.  
 https://github.com/robbbowes/DotNet7-MinimalApi
+
+
+* Movie ratings Api project using clean architecture, controllers, authorisation, and authentication
+https://github.com/robbbowes/dotnet7-movies-api
 
 
 * Hobby project to get to grips with C# and .net - creating an API to track Selenium test failures.  
